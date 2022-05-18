@@ -35,3 +35,16 @@
         Cart Page- Where customer can add new book to cart for placing order. Customer can add products from all categories. Price of each item is added 
         in cart and recalculate the price every time and update the price list for the customer order.
         Add Delivery Option(PickUp / Home Delivery).
+        
+   **Sukhwinder Singh(2092985)**
+
+    - Base Plan
+            Discuss and create base plan for project based on given definition
+    - UI Screens
+            Home Screen(Favorite Page list)
+            Books List Screen 
+            Profile Screen
+    - Functionality
+        Integrate Search for Books.
+        Favorite Books page.
+        Profile Page for the User.
