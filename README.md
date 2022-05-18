@@ -19,4 +19,19 @@
         Delete product from firestore
         Edit product and update realtime details.
         
-        
+**Shamli Sampla(2092504)**
+
+    - Base Plan
+            Discuss and create base plan for project based on given definition
+    - UI Screens
+            Home Screen(With Header,Category)
+            Books List Screen 
+            Book Detail Screen
+            CartScreen
+            CheckoutScreen
+            OrderScreen
+    - Functionality
+        Showing books at Homepage.
+        Cart Page- Where customer can add new book to cart for placing order. Customer can add products from all categories. Price of each item is added 
+        in cart and recalculate the price every time and update the price list for the customer order.
+        Add Delivery Option(PickUp / Home Delivery).
