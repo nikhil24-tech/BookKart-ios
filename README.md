@@ -48,3 +48,15 @@
         Integrate Search for Books.
         Favorite Books page.
         Profile Page for the User.
+
+**Navdeep Kaur(2092868)**
+
+    - Base Plan
+            Discuss and create base plan for project based on given definition
+    - UI Screens
+            Splash Screen
+            Login UI
+            Sign In UI
+    - Functionality
+        Integrate Sign In/ Sign Up.
+        Sign Up with Google.
